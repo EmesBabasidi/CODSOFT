@@ -1,2 +1,2 @@
 # CODSOFT
-Projects from Codsoft Internship
+Machine Learning Projects from Codsoft Internship.
